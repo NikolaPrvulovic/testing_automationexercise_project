@@ -4,7 +4,8 @@ I would like to express my gratitude to IT Bootcamp course and especially to the
 
 This is an exercise automation test using Selenium and TestNG for a final project on IT Bootcamp QA course. The project was built using Maven and Java 19.
 
-The test is based on the instructions from the "Automation Exercise" website (URL: https://automationexercise.com/), which contains test cases that were used to guide the testing process. 
+The test suite is based on the instructions from the "Automation Exercise" website (URL: https://automationexercise.com/), which contains test cases that were used to guide the testing process. 
+
 Due to the high number of advertisements on the website, the code was implemented with an AdBlocker ("AdBlock Max"), but there is also a method which can be used in specific places where advertisements affect the testing process.
 
 The following test cases were executed:
