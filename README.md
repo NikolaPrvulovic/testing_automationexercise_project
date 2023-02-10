@@ -6,6 +6,8 @@ This is an exercise automation test using Selenium and TestNG for one of the fin
 
 The test suite is based on the instructions from the "Automation Exercise" website (URL: https://automationexercise.com/), which contains test cases that were used to guide the testing process. 
 
+Since test cases require the Chrome browser to start over in each test case for proper operation, the Chrome driver is set up in the Before method of the test.
+
 Due to the high number of advertisements on the website, the code was implemented with an AdBlocker ("AdBlock Max"), but there is also a method which can be used in specific places where advertisements affect the testing process.
 
 The following test cases were executed:
