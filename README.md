@@ -2,7 +2,7 @@
 
 I would like to express my gratitude to IT Bootcamp course and especially to the instructors Milan Jovanovic and Vladimir Minic, who provided me and my colleagues with the opportunity to learn and grow as automation testers. They have taught us a great deal and were always there to help whenever we needed it.
 
-This is an exercise automation test using Selenium and TestNG for a final project on IT Bootcamp QA course. The project was built using Maven and Java 19.
+This is an exercise automation test using Selenium and TestNG for one of the final projects on IT Bootcamp QA course. The project was built using Maven and Java 19.
 
 The test suite is based on the instructions from the "Automation Exercise" website (URL: https://automationexercise.com/), which contains test cases that were used to guide the testing process. 
 
