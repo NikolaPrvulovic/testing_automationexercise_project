@@ -10,7 +10,7 @@ Since test cases require the Chrome browser to start over in each test case for 
 
 Due to the high number of advertisements on the website, the code was implemented with an AdBlocker ("AdBlock Max"), but there is also a method which can be used in specific places where advertisements affect the testing process.
 
-### The following test cases were executed:
+## The following test cases were executed:
 
 **Test Case 1:** Register User
 
